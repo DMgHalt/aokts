@@ -2046,6 +2046,49 @@ WS - Work Speed
 <simple id="206" name="Feitoria Wood Productivity" />
 <simple id="207" name="Feitoria Stone Productivity" />
 <simple id="208" name="Feitoria Gold Productivity" />
+<simple id="209" name="Reveal Enemy Town Centers" />
+<simple id="210" name="Relics Visible on Map" />
+<simple id="211" name="Resource" />
+<simple id="212" name="Resource" />
+<simple id="213" name="Resource" />
+<simple id="214" name="Resource" />
+<simple id="215" name="Resource" />
+<simple id="216" name="Resource" />
+<simple id="217" name="Resource" />
+<simple id="218" name="Resource" />
+<simple id="219" name="Resource" />
+<simple id="220" name="Resource" />
+<simple id="221" name="Resource" />
+<simple id="222" name="Resource" />
+<simple id="223" name="Resource" />
+<simple id="224" name="Resource" />
+<simple id="225" name="Resource" />
+<simple id="226" name="Resource" />
+<simple id="227" name="Resource" />
+<simple id="228" name="Resource" />
+<simple id="229" name="Resource" />
+<simple id="230" name="Resource" />
+<simple id="231" name="Resource" />
+<simple id="232" name="Resource" />
+<simple id="233" name="Resource" />
+<simple id="234" name="Resource" />
+<simple id="235" name="Resource" />
+<simple id="236" name="Resource" />
+<simple id="237" name="Resource" />
+<simple id="238" name="Resource" />
+<simple id="239" name="Resource" />
+<simple id="240" name="Resource" />
+<simple id="241" name="Resource" />
+<simple id="242" name="Resource" />
+<simple id="243" name="Resource" />
+<simple id="244" name="Resource" />
+<simple id="245" name="Resource" />
+<simple id="246" name="Resource" />
+<simple id="247" name="Resource" />
+<simple id="248" name="Resource" />
+<simple id="249" name="Resource" />
+<simple id="250" name="Resource" />
+	
 </resources>
  
 <aitypes>
